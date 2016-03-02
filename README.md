@@ -1,6 +1,6 @@
 # noop6 [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-> No operation as a module using arrow functions.
+> No operation as a module using an arrow function.
 
 ## Installation
 
@@ -13,22 +13,24 @@ $ npm i --save noop6
 ```js
 "use strict";
 
-const noop6 = require("noop6");
+const noop = require("noop6");
 
-console.log(noop6());
+noop();
+// Nothing happened, yay!
+
+let square = (x, cb) => {
+    cb = cb || noop;
+    cb(x * x);
+};
+
+square(42, r => {
+    console.log(r);
+    // => 1764
+});
+
+// No error, even we don't send the callback function
+square(42);
 ```
-
-## Documentation
-
-### `noop6(a, b)`
-No operation as a module using arrow functions.
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].

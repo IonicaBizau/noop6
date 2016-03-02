@@ -1,6 +1,6 @@
 {
   "name": "noop6",
-  "description": "No operation as a module using arrow functions.",
+  "description": "No operation as a module using an arrow function.",
   "keywords": [
     "noop6",
     "no",
