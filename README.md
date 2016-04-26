@@ -1,18 +1,20 @@
+
 # noop6 [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > No operation as a module using an arrow function.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save noop6
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
-"use strict";
-
 const noop = require("noop6");
 
 noop();
@@ -32,13 +34,18 @@ square(42, r => {
 square(42);
 ```
 
-## How to contribute
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+
+ - [`custom-return`](https://github.com/IonicaBizau/custom-return#readme)—Generate a function that returns a constant.
+ - [`nodeice`](https://github.com/IonicaBizau/nodeice)—Another PDF invoice generator
+ - [`tithe`](https://github.com/IonicaBizau/tithe)—Organize and track the tithe payments.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
