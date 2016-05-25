@@ -1,5 +1,7 @@
 
-# noop6 [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# noop6
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > No operation as a module using an arrow function.
 
@@ -41,7 +43,11 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
 
+ - [`assured`](https://github.com/IonicaBizau/assured#readme)—Combine promises and callbacks together.
  - [`custom-return`](https://github.com/IonicaBizau/custom-return#readme)—Generate a function that returns a constant.
+ - [`fortran`](https://github.com/IonicaBizau/node-fortran)—Fortran bridge for Node.js which allows you to run Fortran code from Node.js.
+ - [`function.name`](https://github.com/IonicaBizau/function.name#readme)—Function name shim (especially for supporting function names in Internet Explorer).
+ - [`lwipify`](https://github.com/IonicaBizau/lwipify#readme)—Convert images in lwip objects.
  - [`nodeice`](https://github.com/IonicaBizau/nodeice)—Another PDF invoice generator
  - [`tithe`](https://github.com/IonicaBizau/tithe)—Organize and track the tithe payments.
 
