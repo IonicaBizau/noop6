@@ -89,7 +89,7 @@ square(42, r => {
     // => 1764
 });
 
-// No error, even we don't send the callback function
+// No error, even though we didn't pass the callback function
 square(42);
 ```
 
