@@ -19,7 +19,7 @@
 
 # noop6
 
- [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+ [![Support me on Patreon][badge_patreon]][patreon] [![Buy me a book][badge_amazon]][amazon] [![PayPal][badge_paypal_donate]][paypal-donations] [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/noop6.svg)](https://www.npmjs.com/package/noop6) [![Downloads](https://img.shields.io/npm/dt/noop6.svg)](https://www.npmjs.com/package/noop6) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/@johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 <a href="https://www.buymeacoffee.com/H96WwChMy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 
@@ -89,9 +89,10 @@ square(42, r => {
     // => 1764
 });
 
-// No error, even though we didn't pass the callback function
+// No error, even we don't send the callback function
 square(42);
 ```
+
 
 
 
@@ -112,6 +113,8 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 
 
 
@@ -168,35 +171,48 @@ Thanks! :heart:
 ## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - `lien`
- - `tinyreq`
- - `assured`
- - `jsonrequest`
- - `image-parser`
- - `bloggify-ajs-renderer`
- - `bloggify-renderer-ajs`
- - `bloggify-template-renderer`
- - `bloggify-plugin-loader`
- - `bloggify-redirect`
- - `transformer`
- - `rucksack`
- - `lwipify`
- - `asyncer.js`
- - `face-detectify`
- - `bloggify-pug-renderer`
- - `function.name`
- - `nodeice`
- - `bloggify-js-renderer`
- - `bloggify-theme-renderer`
- - `fortran`
- - `parrot-bot`
- - `pull-from-source`
- - `tithe`
  - `3abn`
+ - `angularvezba`
+ - `assured`
+ - `asyncer.js`
+ - `bloggify`
+ - `bloggify-ajs-renderer`
+ - `bloggify-cli`
+ - `bloggify-js-renderer`
+ - `bloggify-plugin-loader`
+ - `bloggify-pug-renderer`
+ - `bloggify-redirect`
+ - `bloggify-renderer-ajs`
+ - `bloggify-renderer-pug`
+ - `bloggify-template-renderer`
+ - `bloggify-theme-renderer`
  - `coindesk.js`
+ - `construct-new`
  - `csv-it`
  - `custom-return`
+ - `face-detectify`
+ - `falsejs`
  - `fn-wrap`
+ - `fortran`
+ - `function-data-converter`
+ - `function.name`
+ - `image-parser`
+ - `is-eq-ten-thousand`
+ - `jsonrequest`
+ - `lien`
+ - `lwipify`
+ - `markdownalint-cli2`
+ - `nineteenify`
+ - `nodeice`
+ - `parrot-bot`
+ - `pull-from-source`
+ - `rucksack`
+ - `tiny-json-request`
+ - `tinyreq`
+ - `tithe`
+ - `tools_may_24`
+ - `transformer`
+ - `value-nine`
 
 
 
