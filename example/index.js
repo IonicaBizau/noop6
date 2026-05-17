@@ -1,6 +1,4 @@
-"use strict";
-
-const noop = require("../lib");
+import noop from "../lib/index.js";
 
 noop();
 // Nothing happened, yay!

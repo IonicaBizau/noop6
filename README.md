@@ -74,7 +74,7 @@ yarn add noop6
 
 
 ```js
-const noop = require("noop6");
+import noop from "noop6";
 
 noop();
 // Nothing happened, yay!
