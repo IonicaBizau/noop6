@@ -13,7 +13,7 @@
     "functions"
   ],
   "license": "MIT",
-  "version": "1.0.10",
+  "version": "2.0.0",
   "type": "module",
   "main": "lib/index.js",
   "exports": "./lib/index.js",
