@@ -104,6 +104,11 @@ square(42);
 
 
 
+
+
+
+
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -113,10 +118,6 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
 
 
 
@@ -165,54 +166,6 @@ Thanks! :heart:
 
 
 
-
-
-
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `3abn`
- - `angularvezba`
- - `assured`
- - `asyncer.js`
- - `bloggify`
- - `bloggify-ajs-renderer`
- - `bloggify-cli`
- - `bloggify-js-renderer`
- - `bloggify-plugin-loader`
- - `bloggify-pug-renderer`
- - `bloggify-redirect`
- - `bloggify-renderer-ajs`
- - `bloggify-renderer-pug`
- - `bloggify-template-renderer`
- - `bloggify-theme-renderer`
- - `coindesk.js`
- - `construct-new`
- - `csv-it`
- - `custom-return`
- - `face-detectify`
- - `falsejs`
- - `fn-wrap`
- - `fortran`
- - `function-data-converter`
- - `function.name`
- - `image-parser`
- - `is-eq-ten-thousand`
- - `jsonrequest`
- - `lien`
- - `lwipify`
- - `markdownalint-cli2`
- - `nineteenify`
- - `nodeice`
- - `parrot-bot`
- - `pull-from-source`
- - `rucksack`
- - `tiny-json-request`
- - `tinyreq`
- - `tithe`
- - `tools_may_24`
- - `transformer`
- - `value-nine`
 
 
 
